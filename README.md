@@ -1,6 +1,6 @@
 ﻿<HTML>
 
-<HEAD><TITLE>Ejemplo de HTML BY Kevinsote</TITLE>
+<HEAD><TITLE>Ejemplo</TITLE>
 </HEAD>
 
 <BODY>
@@ -58,3 +58,4 @@ Los meses de verano<OL><LI>Julio</LI>
 </BODY>
 
 </HTML>
+
