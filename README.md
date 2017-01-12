@@ -1,6 +1,6 @@
 ﻿<HTML>
 
-<HEAD><TITLE>Ejemplo de HTML BY Kekinsote</TITLE>
+<HEAD><TITLE>Ejemplo de HTML BY Kevinsote</TITLE>
 </HEAD>
 
 <BODY>
